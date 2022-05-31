@@ -132,8 +132,8 @@ export function opcionesCap4(respuesta) {
             ];
             if (mudo == 2) {
                 opciones = [
-                    [['"ya salgo"', "a"],
-                    ['"aun no termino"', "x"]],
+                    [['"ya salgo"', "x"],
+                    ['"aun no termino"', "a"]],
                     [7, 5]
                 ];
             }
